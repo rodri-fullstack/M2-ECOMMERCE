@@ -4,16 +4,23 @@ Proyecto frontend de una tienda en línea desarrollado para el Módulo 2 del boo
 
 ## Funcionalidades
 
-- Barra de navegación para moverse por la página.
-- Listado de productos en tarjetas.
-- Botones para comprar.
-- Enlace al carro de compras.
-- Footer con información de la tienda.
-- Página de descripción de producto.
+* Barra de navegación para moverse por la página.
+* Listado de productos en tarjetas.
+* Botones para comprar.
+* Enlace al carro de compras.
+* Footer con información de la tienda.
+* Página de descripción de producto.
 
 ## Tecnologías usadas
 
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
+* HTML5
+* CSS3
+* Bootstrap 5
+* JavaScript
+
+
+
+\## Repositorio en GitHub
+
+https://github.com/TU-USUARIO/ecommerce-frontend-m2
+
