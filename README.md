@@ -22,5 +22,5 @@ Proyecto frontend de una tienda en línea desarrollado para el Módulo 2 del boo
 
 \## Repositorio en GitHub
 
-https://github.com/TU-USUARIO/ecommerce-frontend-m2
+https://github.com/rodri-fullstack/ecommerce-frontend-m2
 
